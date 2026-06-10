@@ -1,10 +1,30 @@
-# Hi there, I'm Sittinon Visesboonchai (Pao) 👋
-### A Passionate Full-Stack Developer & Computer Science Student 🚀
+# Hi there, I'm Sittinon Visesboonchai (PaoPao) 👋
 
-I'm a 3rd-year Computer Science student at Rangsit University. I love building web and mobile applications, focusing on creating clean backend architectures and seamless user experiences.
+I'm a passionate **Full-Stack Developer** and IT student from Thailand. Currently looking for a ** Internship ** to apply my skills in a real-world, fast-paced environment.
 
-- 🛠️ Currently working on: **RSU WeCare (Complaint Management System)** & **Apartment Management System**
-- ⚡ Fun fact: I enjoy self-taught programming and expanding my tech stack continuously.
+### 🚀 About Me
+- 🎓 IT Student with a strong foundation in modern web development.
+- 💻 Building robust web applications from the ground up (Frontend to Backend).
+- 🏗️ Focused on clean code architecture, database optimization, and scalable APIs.
+- 🌱 Currently learning **Golang** and Microservices Architecture.
+
+### 🛠️ Tech Stack
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, TypeScript
+- **Database:** PostgreSQL, Prisma ORM, Supabase
+- **Tools & Architecture:** Git, RESTful APIs, Database Transactions, Middleware Design
+
+### 🏆 Featured Project
+**[Complaint and Report System for Rangsit University]**
+*A full-stack web application built to handle university facility complaints.*
+- Designed a scalable PostgreSQL database schema using **Prisma**.
+- Developed a dynamic and responsive UI using **Next.js** and **Tailwind CSS**.
+- Implemented secure authentication, role-based access control (RBAC), and robust API error handling.
+- Built complex database transactions to ensure data integrity during ticket creation and file uploads.
+
+### 📫 Let's Connect
+- **Email:** sittinonvises.work@gmail.com
+- **LinkedIn:** www.linkedin.com/in/sittinon-visesboonchai
 
 ---
 
