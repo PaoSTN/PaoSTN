@@ -1,26 +1,6 @@
 # Hi there, I'm Sittinon Visesboonchai (PaoPao) 👋
 
-I'm a passionate **Full-Stack Developer** and IT student from Thailand. Currently looking for a ** Internship ** to apply my skills in a real-world, fast-paced environment.
-
-### 🚀 About Me
-- 🎓 IT Student with a strong foundation in modern web development.
-- 💻 Building robust web applications from the ground up (Frontend to Backend).
-- 🏗️ Focused on clean code architecture, database optimization, and scalable APIs.
-- 🌱 Currently learning **Golang** and Microservices Architecture.
-
-### 🛠️ Tech Stack
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express.js, TypeScript
-- **Database:** PostgreSQL, Prisma ORM, Supabase
-- **Tools & Architecture:** Git, RESTful APIs, Database Transactions, Middleware Design
-
-### 🏆 Featured Project
-**[Complaint and Report System for Rangsit University]**
-*A full-stack web application built to handle university facility complaints.*
-- Designed a scalable PostgreSQL database schema using **Prisma**.
-- Developed a dynamic and responsive UI using **Next.js** and **Tailwind CSS**.
-- Implemented secure authentication, role-based access control (RBAC), and robust API error handling.
-- Built complex database transactions to ensure data integrity during ticket creation and file uploads.
+I'm a passionate **Full-Stack Developer** and 4th-year Computer Sciencestudent from Thailand. Currently looking for a ** Internship ** to apply my skills in a real-world, fast-paced environment.
 
 ### 📫 Let's Connect
 - **Email:** sittinonvises.work@gmail.com
