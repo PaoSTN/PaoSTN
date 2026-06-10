@@ -18,7 +18,3 @@ I'm a 3rd-year Computer Science student at Rangsit University. I love building w
 
 ---
 
-### 📊 GitHub Stats
-
-![PaoSTN's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaoSTN&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoSTN&layout=compact&theme=radical)
