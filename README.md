@@ -1,6 +1,6 @@
 # Hi there, I'm Sittinon Visesboonchai (PaoPao) 👋
 
-I'm a passionate **Full-Stack Developer** and 4th-year Computer Sciencestudent from Thailand. Currently looking for a ** Internship ** to apply my skills in a real-world, fast-paced environment.
+I'm a passionate **Full-Stack Developer** and 4th-year Computer Science student from Thailand. Currently looking for a ** Internship ** to apply my skills in a real-world, fast-paced environment.
 
 ### 📫 Let's Connect
 - **Email:** sittinonvises.work@gmail.com
